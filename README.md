@@ -1,7 +1,3 @@
-Your README looks great! Here are some suggestions for enhancements, including the addition of emojis and formatting changes to improve readability and engagement:
-
----
-
 # Human Action Recognition 🎥🤖
 
 This project is a web application built using Flask that utilizes a pre-trained I3D model for human action recognition in videos. Users can upload a video and receive predictions for the top five actions detected in the video.
