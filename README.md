@@ -34,7 +34,7 @@ This project is a web application built using Flask that utilizes a pre-trained 
 
    ```bash
    git clone https://github.com/Manoradh03/Human-Action-Recognition.git
-   cd Human-Action-Recognition
+   cd flask_app
    ```
 
 2. **Install the required packages:**
