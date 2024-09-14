@@ -1,4 +1,4 @@
-# Human Action Recognition 🎥🤖
+# Human Action Recognition Using I3D Model🎥🤖
 
 This project is a web application built using Flask that utilizes a pre-trained I3D model for human action recognition in videos. Users can upload a video and receive predictions for the top five actions detected in the video.
 
